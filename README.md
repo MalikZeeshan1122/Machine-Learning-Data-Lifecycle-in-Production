@@ -38,5 +38,25 @@ ML code fraction:
 
 Sculley, D., Holt, G., Golovin, D., Davydov, E., & Phillips, T. (n.d.). Hidden technical debt in machine learning systems. Retrieved April 28, 2021, from Nips.cc 
 https://papers.nips.cc/paper/2015/file/86df7dcfd896fcaf2674f757a2463eba-Paper.pdf
+# Week 2: Feature Engineering, Transformation and Selection
+If you wish to dive more deeply into the topics covered this week, feel free to check out these optional references. You won’t have to read these to complete this week’s practice quizzes.
+
+Mapping raw data into feature
+
+Scaling
+
+Facets
+
+Embedding projector
+
+Encoding features
+
+TFX:
+
+https://www.tensorflow.org/tfx/guide#tfx_pipelines
+
+https://ai.googleblog.com/2017/02/preprocessing-for-machine-learning-with.html
+
+Breast Cancer Dataset
 
 
