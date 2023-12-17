@@ -89,6 +89,44 @@ https://github.com/feast-dev/feast
 
 https://www.gojek.io/blog/feast-bridging-ml-models-and-data
 
+# Week 4 Optional References
+https://www.snorkel.org/
+Week 4: Advanced Labeling, Augmentation and Data Preprocessing
+This is a compilation of resources including URLs and papers appearing in lecture videos.
+
+Hand Labeling
+
+Weak supervision
+
+Snorkel
+
+How do you get more data?
+
+Advanced Techniques
+
+Images in tensorflow
+
+CIFAR-10
+
+https://www.cs.toronto.edu/~kriz/cifar.html
+
+https://www.tensorflow.org/datasets/catalog/cifar10
+
+Weather dataset
+
+Human Activity Recognition
+
+Papers
+
+Label Propagation:
+
+Iscen, A., Tolias, G., Avrithis, Y., & Chum, O. (2019). Label propagation for deep semi-supervised learning. 
+https://arxiv.org/pdf/1904.04717.pdf
+
+
+
+
+
 
 
 
